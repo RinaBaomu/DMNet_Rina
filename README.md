@@ -3,13 +3,7 @@ Rina Bao (ctc682)
 rinabao@mail.missouri.edu
 The codes contain the implementations of our below paper, please cite our paper when you are using the codes.
 
-@inproceedings{bao2021dmnet,
-  title={DMNet: Dual-Stream Marker Guided Deep Network for Dense Cell Segmentation and Lineage Tracking},
-  author={Bao, Rina and Al-Shakarji, Noor M and Bunyak, Filiz and Palaniappan, Kannappan},
-  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
-  pages={3361--3370},
-  year={2021}
-}
+Bao R, Al-Shakarji NM, Bunyak F, Palaniappan K. DMNet: Dual-stream marker guided deep network for dense cell segmentation and lineage tracking. In IEEE International Conference on Computer Vision (ICCV) Workshop on Computer Vision for Automated Medical Diagnosis, pp. 3354-3363, (2021).
 
 This codes is for ISBI2021 6th Cell Segmentation and Tracking Challenge secondary track
 # Instructions
